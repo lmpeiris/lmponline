@@ -9,7 +9,7 @@ Most of the software is written in VB6
 | Software | Description | Year created | Last update | Lang |
 |---|---|---|---|---|
 | Picture | Hybrid media viewer | 2003 | 2007 | VB6 |
-| Calc    | Desktop scientific calculator | 2006 | 2008 | VB6 |
+| Calc    | Desktop scientific calculator | 2003 | 2008 | VB6 |
 
 # Hybrid media viewer (picture) and calculator (calc)
 Below youtube video has a limited demonstration
